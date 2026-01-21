@@ -2,24 +2,24 @@
 
 ### Junior Software Developer (DAM & DAW)
 
-¡Bienvenido a mi perfil! [cite_start]Soy un desarrollador de software con sede en **Granada, España**[cite: 3]. [cite_start]Cuento con un doble perfil técnico, habiendo completado **Desarrollo de Aplicaciones Multiplataforma (DAM)** y finalizando actualmente **Desarrollo de Aplicaciones Web (DAW)**[cite: 9, 26, 28].
+¡Bienvenido a mi perfil! Soy un desarrollador de software con sede en **Granada, España**. Cuento con un doble perfil técnico, habiendo completado **Desarrollo de Aplicaciones Multiplataforma (DAM)** y finalizando actualmente **Desarrollo de Aplicaciones Web (DAW)**.
 
-[cite_start]Mi objetivo es crear soluciones de software escalables y seguir aprendiendo en entornos profesionales[cite: 11].
+Mi objetivo es crear soluciones de software escalables y seguir aprendiendo en entornos profesionales.
 
 ---
 
 ### 💻 Sobre mí
 
-- [cite_start]🔭 **Actualmente:** Finalizando mis estudios como Técnico Superior en Desarrollo de Aplicaciones Web (DAW) en la Escuela Arte Granada[cite: 26].
-- [cite_start]💼 **Experiencia:** Realicé prácticas como **Software Developer Intern** en **NTT DATA** (Oct 2024 - Dic 2024), trabajando con Java y Spring Boot en un entorno Agile[cite: 21, 24].
-- [cite_start]🗣 **Idiomas:** Español (Nativo) e Inglés (Intermedio - B2)[cite: 19].
-- [cite_start]🚀 **Motto:** LIVE FAST[cite: 4].
+- 🔭 **Actualmente:** Finalizando mis estudios como Técnico Superior en Desarrollo de Aplicaciones Web (DAW) en la Escuela Arte Granada.
+- 💼 **Experiencia:** Realicé prácticas como **Software Developer Intern** en **NTT DATA** (Oct 2024 - Dic 2024), trabajando con Java y Spring Boot en un entorno Agile.
+- 🗣 **Idiomas:** Español (Nativo) e Inglés (Intermedio - B2).
+- 🚀 **Motto:** LIVE FAST.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-[cite_start]Tengo conocimientos sólidos en Java, C# y tecnologías web[cite: 11].
+Tengo conocimientos sólidos en Java, C# y tecnologías web.
 
 **Lenguajes:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,6 +52,6 @@
 
 Estoy abierto a nuevas oportunidades y colaboraciones.
 
-- [cite_start]📧 **Email:** [javiercelia123@gmail.com](mailto:javiercelia123@gmail.com) [cite: 5]
-- [cite_start]👔 **LinkedIn:** [Perfil de Javier Granizo](https://www.linkedin.com/in/javo-5-81a830380/) [cite: 6]
-- [cite_start]🐙 **GitHub:** [@javiergranizoaguilar](https://github.com/javiergranizoaguilar) [cite: 7]
+- 📧 **Email:** [javiercelia123@gmail.com](mailto:javiercelia123@gmail.com)
+- 👔 **LinkedIn:** [Perfil de Javier Granizo](https://www.linkedin.com/in/javo-5-81a830380/)
+- 🐙 **GitHub:** [@javiergranizoaguilar](https://github.com/javiergranizoaguilar)
